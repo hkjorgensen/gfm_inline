@@ -1,3 +1,3 @@
 # Test with inline image
 
-!()[text/assets/test.gif]
+![](text/assets/test.gif)
